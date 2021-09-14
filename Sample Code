@@ -2,7 +2,7 @@
   <head>
   <title>Github Sample Stuff</title>
   </head>
-  <body>
+  <body style="background-color:black; color:ghostwhite">
     <h1>Github Rocks</h1>
     <h3>jk this websites layout is wack</h3>
   </body>
